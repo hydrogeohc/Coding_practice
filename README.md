@@ -2,11 +2,9 @@
 
 * Notes: "🔒" means [LeetCode premium membership].
 
-## Solutions
-- [0001 - 1000](./0001-1000.md)
 
 ## Algorithms
-
+* [String](https://github.com/hydrogeohc/Coding_practice#string)
 * [Queue](https://github.com/hydrogeohc/Coding_practice#queue)
 * [Recursion](https://github.com/hydrogeohc/Coding_practice#recursion)
 * [Binary Search Tree](https://github.com/hydrogeohc/Coding_practice#binary-search-tree)
